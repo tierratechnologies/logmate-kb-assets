@@ -1,0 +1,1 @@
+# logmate-kb-assets
